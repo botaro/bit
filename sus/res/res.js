@@ -1,0 +1,7 @@
+BigNumber { _hex: '0x016345785d8a0000', _isBigNumber: true }
+100000000000000000
+0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c
+0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56
+9
+approved!
+tx

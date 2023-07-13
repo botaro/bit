@@ -1,0 +1,2 @@
+# @pancakeswap/sdk
+v2!
