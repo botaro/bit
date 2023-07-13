@@ -1,0 +1,15 @@
+/initrd/mnt/dev_save/.nvm/versions/node/v16.18.1/lib/node_modules/pancake-swap-sdk/node_modules/tiny-invariant/dist/tiny-invariant.cjs.js:14
+    throw new Error(value);
+          ^
+
+Error: Invariant failed: CHAIN_IDS
+    at invariant (/initrd/mnt/dev_save/.nvm/versions/node/v16.18.1/lib/node_modules/pancake-swap-sdk/node_modules/tiny-invariant/dist/tiny-invariant.cjs.js:14:11)
+    at Token.sortsBefore (/initrd/mnt/dev_save/.nvm/versions/node/v16.18.1/lib/node_modules/pancake-swap-sdk/dist/sdk.cjs.development.js:417:42)
+    at Function.getAddress (/initrd/mnt/dev_save/.nvm/versions/node/v16.18.1/lib/node_modules/pancake-swap-sdk/dist/sdk.cjs.development.js:769:25)
+    at r (/mnt/sda2/dex/uv2/cak/js/pai.js:10:21)
+    at Object.<anonymous> (/mnt/sda2/dex/uv2/cak/js/pai.js:14:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+    at Module.load (node:internal/modules/cjs/loader:1033:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
